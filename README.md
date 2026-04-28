@@ -16,7 +16,7 @@ A simple and responsive flower shop website built using HTML, CSS, and JavaScrip
 ## Screenshots
 
 ![Home](home.png)
-![Products](product.png)
+![Products](products.png)
 ![About](about.png)
 
 ## How to Run
